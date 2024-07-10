@@ -75,13 +75,6 @@ th, td {
     padding: 8px;
     text-align: center;
 }
-/*table {
-    width: 100%;
-    border-collapse: collapse;
-}
-table, th, td {
-    border: 1px;
-}*/
 .table-title1{
     text-align: left;
     font-size: 30px;
@@ -272,19 +265,11 @@ background-color:  rgb(241, 220, 174)  ;
     border-collapse: collapse;
 }
 .page2 tbody th{
-    /*padding-top: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 20px;*/
     width:30px;
     height: 50px;
     border: 1px solid rgb(46, 241, 121);
 }
 .page2 tbody td{
-    /*padding-top: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 20px;*/
     width:30px;
     height: 50px;
     border:1px solid rgb(46, 241, 121) ;
@@ -292,10 +277,6 @@ background-color:  rgb(241, 220, 174)  ;
 .page2 tbody tr{ 
     width:30px;
     height: 50px;
-   /* padding-top: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 20px;*/
     border:1px solid rgb(46, 241, 121);
 }
 
@@ -308,19 +289,11 @@ background-color:  rgb(241, 220, 174)  ;
     border-collapse: collapse;
 }
 .page3 tbody th{
-    /*padding-top: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 20px;*/
     width:10px;
     height: 60px;
     border: 1px solid rgb(92, 172, 206);
 }
 .page3 tbody td{
-    /*padding-top: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 20px;*/
     width:10px;
     height: 60px;
     border:1px solid rgb(92, 172, 206) ;
@@ -328,10 +301,6 @@ background-color:  rgb(241, 220, 174)  ;
 .page3 tbody tr{ 
     width:10px;
     height: 60px;
-   /* padding-top: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 20px;*/
     border:1px solid rgb(92, 172, 206);
 }
 
